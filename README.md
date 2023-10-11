@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bhanuprakash7854
+- 👋 Hi, I’m Bhanu Prakash
 - 📖 I am currently pursuing my B.Tech
 - 👀 I’m interested in java,full stack web development
 - 🌱 I’m currently learning full stack java development
