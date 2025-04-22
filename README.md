@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bhanu Prakash
 - 📖 I am currently pursuing my B.Tech
-- 👀 I’m interested in java,full stack java development
+- 👀 I’m interested in full stack java development
 - 🌱 I’m currently learning full stack java development
 - 📫 Reach me at bhanuprakashgaddam2004@gamil.com
 
